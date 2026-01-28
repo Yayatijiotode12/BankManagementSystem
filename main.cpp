@@ -383,7 +383,7 @@ void intro()
     cout << "\n\n\n\t  BANK";
     cout << "\n\n\tMANAGEMENT";
     cout << "\n\n\t  SYSTEM";
-    cout << "\n\n\n\nMADE BY :Suhas Venkata,Suhas mirjikar";
+    cout << "\n\n\n\nMADE BY :Yayati Jiotode";
     cin.get();
 }
 
